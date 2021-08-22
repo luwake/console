@@ -1,7 +1,7 @@
 # console
 a php console command use javascript console api
 
-# example 
+# usage 
 
 ```php
 Console::log('test');
@@ -35,7 +35,7 @@ Console::timeEnd('time');
 
 <head>
   <meta charset="UTF-8">
-  <title>Dom Url</title>
+  <title>Demo</title>
 </head>
 
 <body>
