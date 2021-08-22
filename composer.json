@@ -1,0 +1,18 @@
+{
+	"name" : "luwake/console",
+	"description" : "a php console command use javascript console api",
+	"keywords" : [
+		"console"
+	],
+	"authors" : [{
+			"name" : "Lu Biao",
+			"email" : "lubiao39699492@163.com"
+		}
+	],
+	"license" : "MIT",
+	"autoload" : {
+		"psr-4" : {
+			"Luwake\\Console\\" : "src/"
+		}
+	}
+}
