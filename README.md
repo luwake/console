@@ -45,3 +45,7 @@ Console::timeEnd('time');
 </body>
 </html>
 ```
+
+# todo 
+
+Console::dir and Console::dirxml need complete
